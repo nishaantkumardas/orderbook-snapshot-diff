@@ -1,6 +1,6 @@
 // main.go  –  orderbook-snapshot-diff
 // go run .
-package mai
+package main
 
 import (
 	"context"
