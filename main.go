@@ -1,5 +1,5 @@
 // main.go  –  orderbook-snapshot-diff
-// go run .
+// go run .l
 package main
 
 import (
