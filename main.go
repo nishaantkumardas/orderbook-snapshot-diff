@@ -1,4 +1,4 @@
-// main.go  –  orderbook-snapshot-diff
+// main.go  –  orderbook-snapshot-dif
 // go run .
 package main
 
